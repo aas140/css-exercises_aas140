@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odds{
+    background-color:rgb(227, 136, 170);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#even2{
+    color: blue;
+    font-size: 36px;
+}
+
+.num3, 
+.num4{
+    font-size: 24px;
+}
+
+.num4{
+    font-weight: bold;
+    background-color: rgb(145, 249, 145);
+}
